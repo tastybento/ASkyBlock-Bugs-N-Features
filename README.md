@@ -2,7 +2,7 @@
 This repository is for handling issues related to ASkyBlock or AcidIsland.
 
 ## WARNING
-If you post abusive comments your account blocked! Be polite and remember that this is a volunteer-driven project.
+If you post abusive comments your account will be blocked! Be polite and remember that this is a volunteer-driven project.
 
 ## Bug reports
 Create an issue to submit a bug report. Before you do, check the other issues - maybe it was already submitted.
