@@ -1,6 +1,9 @@
 # Askyblock & AcidIsland Issues
 This repository is for handling issues related to ASkyBlock or AcidIsland.
 
+## WARNING
+If you post abusive comments your account blocked! Be polite and remember that this is a volunteer-driven project.
+
 ## Bug reports
 Create an issue to submit a bug report. Before you do, check the other issues - maybe it was already submitted.
 If it's not a [Duplicate], we'll investigate the bug you reported. You **should** give us as much information as possible in order to make us able to replicate it. We might need you to tell us more about the bug you encountered, so please regularly check if there is a tag [Waiting for response] on your issue.
