@@ -1,4 +1,4 @@
-# Askyblock & AcidIsland Issues
+# ASkyBlock & AcidIsland Issues
 This repository is for handling issues related to ASkyBlock or AcidIsland.
 
 ## Feature Requests
