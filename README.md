@@ -1,10 +1,10 @@
 # ASkyBlock & AcidIsland Issues
 This repository is for handling issues related to ASkyBlock or AcidIsland.
 
+**NOTE: The development team are now 100% working on BentoBox (BSkyBlock, AcidIsland)**
+
 ## Feature Requests
 **ASkyBlock is NO LONGER ACCEPTING FEATURE REQUESTS**
-
-File all feature requests on BSkyBlock: https://github.com/tastybento/bskyblock/issues
 
 ## WARNING
 If you post abusive comments your account will be blocked! Be polite and remember that this is a volunteer-driven project.
