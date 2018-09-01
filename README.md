@@ -1,7 +1,9 @@
 # ASkyBlock & AcidIsland Issues
-This repository is for handling issues related to ASkyBlock or AcidIsland.
+ASkyBlock and AcidIsland support has now **ended**!
+Issues will be looked at only on a best-effort basis or maybe not at all.
+Thank you for your support over the years, but we're now moving onto other projects.
 
-**NOTE: The development team are now 100% working on BentoBox (BSkyBlock, AcidIsland)**
+**The development team are now 100% working on BentoBox (BSkyBlock, AcidIsland)**
 
 ## Feature Requests
 **ASkyBlock is NO LONGER ACCEPTING FEATURE REQUESTS**
